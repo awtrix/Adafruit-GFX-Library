@@ -33,6 +33,11 @@
 ** see:
 ** http://robey.lag.net/2010/01/23/tiny-monospace-font.html
 **
+** Modifications for Awtrix 2.0 for improved readability and LaMetric Style are from
+** Blueforcer, Yann and hollyghost
+** see:
+** https://forum.blueforcer.de/d/11-edit-font
+**
 ** The original author does not have any objection to relicensing of Robey
 ** Pointer's modifications (in this file) in a more permissive license.  See
 ** the discussion at the above blog, and also here:
